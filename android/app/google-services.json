@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1055219699959",
+    "project_id": "textcraft-1e64c",
+    "storage_bucket": "textcraft-1e64c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055219699959:android:402ee10db7cd8d921883f2",
+        "android_client_info": {
+          "package_name": "com.notestracker.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7uVVWW63NuE79H5cWpvo0mRBSLWldoq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
